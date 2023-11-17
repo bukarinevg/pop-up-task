@@ -54,13 +54,3 @@ This Yii2 project implements a solution for displaying modals based on device ty
 ## Deployment Recommendation
 
 For deploying this Yii2 application...
-
-[Other deployment recommendations...]
-
-## Contributing
-
-[Contributing guidelines...]
-
-## License
-
-[License information...]
